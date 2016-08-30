@@ -1,0 +1,6 @@
+D:\ARAMAYO_NICOLAS\Probando cosas en C#\Ejercicio Numero 16\Ejercicio Numero 16\bin\Debug\Ejercicio Numero 16.exe.config
+D:\ARAMAYO_NICOLAS\Probando cosas en C#\Ejercicio Numero 16\Ejercicio Numero 16\bin\Debug\Ejercicio Numero 16.exe
+D:\ARAMAYO_NICOLAS\Probando cosas en C#\Ejercicio Numero 16\Ejercicio Numero 16\bin\Debug\Ejercicio Numero 16.pdb
+D:\ARAMAYO_NICOLAS\Probando cosas en C#\Ejercicio Numero 16\Ejercicio Numero 16\obj\Debug\Ejercicio Numero 16.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\Probando cosas en C#\Ejercicio Numero 16\Ejercicio Numero 16\obj\Debug\Ejercicio Numero 16.exe
+D:\ARAMAYO_NICOLAS\Probando cosas en C#\Ejercicio Numero 16\Ejercicio Numero 16\obj\Debug\Ejercicio Numero 16.pdb
